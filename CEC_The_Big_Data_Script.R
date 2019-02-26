@@ -1,3 +1,8 @@
+# WRITTEN BY devtoobh, SUMMER 2018
+#####
+# THIS CODE NO LONGER WORKS FULLY AS CDEC CHANGED ITS WEBSITE, WEBSITE URL, AND HOW THEY ORGANIZE THEIR DATA
+#####
+
 library(data.table) # V 1.11.4
 library(fitdistrplus)
 library(lubridate)
