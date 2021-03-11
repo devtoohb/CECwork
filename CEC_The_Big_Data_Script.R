@@ -1,4 +1,4 @@
-# WRITTEN BY devtoohb, SUMMER 2018
+# devB (VB), SUMMER 2018
 #####
 # THIS CODE NO LONGER WORKS FULLY AS CDEC CHANGED ITS WEBSITE, WEBSITE URL, AND HOW THEY ORGANIZE THEIR DATA
 #####
@@ -71,9 +71,9 @@ NAconcurrent <- TRUE
 okayNAnumber <- 500
 
 # Formatting inputs:
-fold.loc   <- '/Users/vedbhoot/Desktop/processed_data_CDEC/Temp_K/'
+fold.loc   <- 'processed_data_CDEC/Temp_K/'
 f.names    <- list.files(path = fold.loc, pattern = "*.txt")
-fold.loc.2 <- '/Users/vedbhoot/Desktop/processed_data_CDEC/wind/wind_direction/' # for wind direction only
+fold.loc.2 <- 'processed_data_CDEC/wind/wind_direction/' # for wind direction only
 f.names.2  <- list.files(path = fold.loc.2, pattern = "*.txt")
   
 # Functions you run:
